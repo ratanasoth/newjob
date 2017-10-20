@@ -1,0 +1,50 @@
+/* your styles go here */
+body{
+    font-size: 12px;
+}
+.jumbotron {
+    padding-top: 30px;
+    margin-bottom: 30px;
+    color: #eee;
+    text-align: center;
+    background-image: url("../img/comunidad-usuarios.jpg");
+}
+.panel-default-j > .panel-heading {
+    color: #216f93;
+    font-size: 20px;
+    text-shadow: 0 4px 8px rgba(0,0,0,.2);
+}
+.panel-body-j {
+    background: #f2f2f2;
+    box-shadow: 0 4px 8px rgba(0,0,0,.2);
+}
+.panel-default-j {
+    color: #216f93;
+}
+.border-radius-none {
+    border-radius: 0;
+}
+.bold {
+    font-weight: bold;
+}
+.red {
+    color: red;
+}
+.a-j {
+    color: #216f93;
+    text-decoration: none;
+}
+a:hover, a:focus {
+    color: #2b90d9;
+    border-bottom: none;
+    text-decoration: none;
+}
+.pd-t-n-pd-b {
+    padding: 5px;
+}
+.thumbnail-j {
+    padding: 2px;
+}
+.img-ad {
+    padding-bottom: 2px;
+}
