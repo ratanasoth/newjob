@@ -48,3 +48,12 @@ a:hover, a:focus {
 .img-ad {
     padding-bottom: 2px;
 }
+.pd-j {
+    padding: 10px 10px 0 10px;
+}
+.pd-j-b {
+    padding-bottom: 10px;
+}
+.owl-carousel .owl-wrapper-outer {
+    padding-left: 0;
+}

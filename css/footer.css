@@ -1,0 +1,107 @@
+#myFooter {
+    background-color: #f2f2f2;
+    color: white;
+    padding-top: 30px;
+    box-shadow: 4px 0 8px rgba(0,0,0,.5)
+}
+
+#myFooter .footer-copyright {
+    background-color: #216f93;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    text-align: center;
+}
+
+#myFooter .row {
+    margin-bottom: 60px;
+}
+
+#myFooter .navbar-brand {
+    margin-top: 45px;
+    height: 65px;
+}
+
+#myFooter .footer-copyright p {
+    margin: 10px;
+    color: #ccc;
+}
+
+#myFooter ul {
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+}
+
+#myFooter h5 {
+    font-size: 14px;
+    color: #216f93;
+    font-weight: bold;
+    margin-top: 30px;
+    text-shadow: 0 4px 8px rgba(0,0,0,.2);
+}
+
+#myFooter h2 a{
+    font-size: 50px;
+    text-align: center;
+    color: #216f93;
+}
+
+#myFooter a {
+    color: #216f93;
+    text-decoration: none;
+}
+
+#myFooter a:hover,
+#myFooter a:focus {
+    text-decoration: none;
+    color: #0D47A1;
+}
+
+#myFooter .social-networks {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 16px;
+}
+
+#myFooter .social-networks a {
+    font-size: 32px;
+    color: #216f93;
+    padding: 10px;
+    transition: 0.2s;
+    text-shadow: 0 4px 8px rgba(0,0,0,.5);
+}
+
+#myFooter .social-networks a:hover {
+    text-decoration: none;
+}
+
+#myFooter .facebook:hover {
+    color: #0077e2;
+}
+
+#myFooter .google:hover {
+    color: #ef1a1a;
+}
+
+#myFooter .twitter:hover {
+    color: #00aced;
+}
+
+#myFooter .btn {
+    color: white;
+    background-color: #216f93;
+    border-radius: 20px;
+    border: none;
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    line-height: 25px;
+    box-shadow: 0 4px 8px rgba(21, 47, 75, 0.6);
+}
+
+@media screen and (max-width: 767px) {
+    #myFooter {
+        text-align: center;
+    }
+}

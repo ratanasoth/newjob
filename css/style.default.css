@@ -5,6 +5,13 @@
   font-weight: bold;
   color: #2b90d9;
 }
+.btn-login-j {
+  color: white;
+  background-color: #216f93;
+  border-radius: 20px;
+  border: none;
+  box-shadow: 0 4px 8px rgba(21, 47, 75, 0.6);
+}
 .navbar a.navbar-brand:focus,
 .navbar a.navbar-brand:hover {
   border-bottom: none;
@@ -276,7 +283,7 @@ body {
   }
 }
 .navbar-btn {
-  margin-top: 30.5px;
+  margin-top: 22.5px;
   margin-bottom: 12.5px;
 }
 .navbar-btn.btn-sm {
